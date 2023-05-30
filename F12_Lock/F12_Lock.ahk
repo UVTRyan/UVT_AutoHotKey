@@ -1,0 +1,1 @@
+﻿F12::DllCall("user32.dll\LockWorkStation")
